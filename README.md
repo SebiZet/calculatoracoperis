@@ -12,7 +12,7 @@ Utilizatorul trebuie să introducă dimensiunile acoperișului în metri pătra�
 
 ## Cum să utilizați
 
-1. Accesați [Calculatorul pentru Acoperiș](https://mesteracoperis.ro).
+1. Accesați Calculator pentru [Acoperiș](https://mesteracoperis.ro).
 2. Navigați la pagina de calculator pentru acoperi.
 3. Completați detaliile solicitate.
 4. Obțineți estimarea apăsând butonul "Calculați".
